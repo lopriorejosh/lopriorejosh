@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Josh LoPriore
 - 👀 I’m interested in C++/C# projects
-- 🌱 I’m currently learning Java and Unity
-- 💞️ I’m looking to collaborate on any game developement/machine learning projects 
+- 🌱 I’m currently learning Flutter/Dart as well as the AWS enviornment
 - 📫 How to reach me: lopriorejosh@gmail.com
 
 <!---
